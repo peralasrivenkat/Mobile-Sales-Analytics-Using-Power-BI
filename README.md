@@ -27,8 +27,11 @@ Key insights provided:
 - Customer rating insights
 
 #### 📸 Dashboard Screenshots
-![Mobile Sales Overview](Screenshots/Screenshot%202026-01-14%20001220.png)
-![Brand & Region Analysis](Screenshots/Screenshot%202026-01-14%20002241.png)
+![Mobile Sales Overview]
+<img width="1365" height="805" alt="Screenshot 2026-01-14 003012" src="https://github.com/user-attachments/assets/25e12bac-374e-4a04-bfed-4882f31eb4a7" />
+
+![Brand & Region Analysis]
+<img width="1919" height="1021" alt="Screenshot 2026-01-14 002949" src="https://github.com/user-attachments/assets/f1304d6e-b83f-4144-b307-6bd689501944" />
 
 ---
 
@@ -41,9 +44,14 @@ Key insights provided:
 - KPI-driven insights
 
 #### 📸 Dashboard Screenshots
-![Sales Trend Dashboard](Screenshots/Screenshot%202026-01-14%20002556.png)
-![MTD Analysis](Screenshots/Screenshot%202026-01-14%20002817.png)
-![Performance Metrics](Screenshots/Screenshot%202026-01-14%20002949.png)
+![Sales Trend Dashboard]
+<img width="1919" height="997" alt="Screenshot 2026-01-14 001220" src="https://github.com/user-attachments/assets/a31560fe-d608-4d07-8598-1f8f4abbb7e6" />
+
+![MTD Analysis]
+<img width="1348" height="754" alt="Screenshot 2026-01-14 002556" src="https://github.com/user-attachments/assets/a65e1d60-befe-4aed-bb4f-169b46082222" />
+
+![Performance Metrics]
+<img width="1358" height="820" alt="Screenshot 2026-01-14 002817" src="https://github.com/user-attachments/assets/e2941742-fa66-45fb-a64e-03733b6cb4f0" />
 
 ---
 
