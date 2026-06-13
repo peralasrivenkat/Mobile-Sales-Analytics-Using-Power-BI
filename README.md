@@ -8,6 +8,15 @@ This project demonstrates **end-to-end data analytics**, including data preparat
 
 ---
 
+## 🔗 Live Dashboard Links
+Dashboard 1:  
+https://app.powerbi.com/view?r=eyJrIjoiODAwNmRlNmEtMThlYi00YTYyLTg1NTAtZGFkMTVjZTZhYmEzIiwidCI6IjRhZjY1ZjIzLTVmZjgtNDg4OC1hOTI3LWRlZWEwNjUxMGFiOSJ9        
+
+Dashboard 2:  
+https://app.powerbi.com/view?r=eyJrIjoiMWRhZjdjYzktYmM0Mi00YTIxLTg5NjktNjJkNmZjN2E5NjUxIiwidCI6IjRhZjY1ZjIzLTVmZjgtNDg4OC1hOTI3LWRlZWEwNjUxMGFiOSJ9    
+
+---
+
 ## 🧠 Analytics Performed
 - **Descriptive Analytics** – Overall sales performance and KPIs
 - **Diagnostic Analytics** – Performance dips, anomalies, and comparisons
@@ -121,13 +130,5 @@ The dataset contains structured mobile sales transaction data with attributes su
 **Name:** *PERALA SRIVENKAT*  
 **Domain:** Data Analytics / Business Intelligence  
 **Tools:** Power BI, Excel, DAX  
-
-## 🔗 Live Dashboard Links
-Dashboard 1:  
-https://app.powerbi.com/view?r=eyJrIjoiODAwNmRlNmEtMThlYi00YTYyLTg1NTAtZGFkMTVjZTZhYmEzIiwidCI6IjRhZjY1ZjIzLTVmZjgtNDg4OC1hOTI3LWRlZWEwNjUxMGFiOSJ9        
-
-Dashboard 2:  
-https://app.powerbi.com/view?r=eyJrIjoiMWRhZjdjYzktYmM0Mi00YTIxLTg5NjktNjJkNmZjN2E5NjUxIiwidCI6IjRhZjY1ZjIzLTVmZjgtNDg4OC1hOTI3LWRlZWEwNjUxMGFiOSJ9               
-
 
 ⭐ If you find this project useful, feel free to **star** the repository!
