@@ -89,20 +89,24 @@ The dataset contains structured mobile sales transaction data with attributes su
 ## 📁 Repository Structure
 
 
-📦 Mobile-Sales-Data-Analytics
-┣ 📂 Dashboards
-┃ ┣ 📄 Mobile Sales Dashboard.pbix
-┃ ┗ 📄 MS_Dashboard.pbix
-┣ 📂 Data
-┃ ┗ 📄 Sales Data.xlsx
-┣ 📂 Screenshots
-┃ ┣ 📸 Screenshot 2026-01-14 001220.png
-┃ ┣ 📸 Screenshot 2026-01-14 002241.png
-┃ ┣ 📸 Screenshot 2026-01-14 002556.png
-┃ ┣ 📸 Screenshot 2026-01-14 002817.png
-┃ ┣ 📸 Screenshot 2026-01-14 002949.png
-┣ 📄 README.md
-┗ 📄 .gitignore
+Mobile-Sales-Data-Analytics/
+│
+├── Dashboards/
+│   ├── Mobile Sales Dashboard.pbix
+│   └── MS_Dashboard.pbix
+│
+├── Data/
+│   └── Sales Data.xlsx
+│
+├── Screenshots/
+│   ├── dashboard-overview.png
+│   ├── brand-region-analysis.png
+│   ├── sales-trend-dashboard.png
+│   ├── mtd-analysis.png
+│   └── performance-metrics.png
+│
+├── README.md
+└── .gitignore
 
 
 ---
